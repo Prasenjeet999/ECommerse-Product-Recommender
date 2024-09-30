@@ -3,7 +3,7 @@
 ## Project Overview
 This project implements a comprehensive product recommendation system for e-commerce platforms using various machine learning techniques. The system aims to provide personalized product recommendations to users based on their browsing and purchase history, as well as overall product popularity.
 
-![Recomendation System](/Assets/Usecase-Recommender-Image.svg)
+![Recomendation System](/Assets/Usecase-Recommender-Image.png)
 
 ## Key Features
 - Rank-based product recommendations
